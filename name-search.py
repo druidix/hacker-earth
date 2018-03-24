@@ -6,7 +6,6 @@ num_inputs = int(input())
 inputs = []
 
 for i in range(0, num_inputs):
-  srl = i+1
   inputs.append(input())
 
 for string in inputs:
